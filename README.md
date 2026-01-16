@@ -681,8 +681,8 @@ Progress: 32/256 rows tested... (12% complete)
 Progress: 224/256 rows tested... (87% complete)
 
 ╔═══════════════════════════════════════════════╗
-║ ★★★ PERFECT! ALL 65536 TESTS PASSED! ★★★     ║
-║  Wallace Tree with 4:2 Compressors WORKING!  ║
+║ ★★★ PERFECT! ALL 65536 TESTS PASSED! ★★★   ║
+║  Wallace Tree with 4:2 Compressors WORKING!   ║
 ╚═══════════════════════════════════════════════╝
 ```
 
